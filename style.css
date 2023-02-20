@@ -1,0 +1,39 @@
+body{
+    background:linear-gradient(#FDA7DF,#D980FA,#7bed9f,#341f97,#ff9ff3,#f368e0,#00d2d3,#3B3B98,#FD7272,#FC427B,#FEA47F,#55E6C1,#f8a5c2,#ff6b81,#ff4757);
+}
+#m1{
+   background-color: blue;
+   color: aqua; 
+}
+#m2{
+    background-color: blue;
+    color: aqua; 
+}
+#camera , #result
+{
+  border: 2px dashed rgb(0, 17, 255);
+  width: 350px;
+  height: 300px; 
+}
+.object_name
+{
+  font-size: 40px;
+}
+.gesture_icon
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+  font-size: 14px;
+  color: #00d9ff;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: rgb(4, 0, 255);
+}
